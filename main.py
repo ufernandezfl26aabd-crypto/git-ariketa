@@ -1,2 +1,4 @@
 print("Kaixo")
-print("Kaixo2")
+
+print ("aldaketak egin ")
+print ("ariketa")
